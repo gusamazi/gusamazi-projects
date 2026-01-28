@@ -54,7 +54,7 @@ Currently pursuing a Master’s degree in Pharmaceutical Product Development and
 
 ---
 
-## $\color{fb75fb}{\text{Reserarch Interess}}$
+## $\color{fb75fb}{\text{Research Interess}}$
 
 <details>
 <summary><b>💊 Polimeric Nanoparticles development</b></summary>
